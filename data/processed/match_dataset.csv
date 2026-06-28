@@ -1,0 +1,41 @@
+home_team,away_team,home_xg,away_xg,home_shots,away_shots,home_possession,away_possession,home_corners,away_corners
+Nottingham Forest,Newcastle,0.63,1.70,9,17,44%,56%,4,5
+Bournemouth,Manchester United,0.53,2.52,8,25,38%,62%,5,10
+Chelsea,Arsenal,1.54,1.55,17,13,49%,51%,4,3
+Bournemouth,Brighton,1.63,0.94,19,6,55%,45%,7,0
+Manchester United,Fulham,2.43,0.44,14,10,55%,45%,7,8
+Manchester United,Leicester,0.76,0.63,13,6,51%,49%,1,5
+Aston Villa,Crystal Palace,3.11,1.26,17,13,70%,30%,10,1
+Newcastle,Ipswich,2.85,0.10,25,4,78%,22%,11,2
+West Ham,Aston Villa,2.46,2.03,14,15,52%,48%,5,3
+Tottenham,Leicester,1.04,1.56,15,12,61%,39%,6,4
+Brighton,West Ham,1.31,1.27,16,12,53%,47%,8,1
+Leicester,Chelsea,1.11,2.75,4,16,37%,63%,2,9
+Crystal Palace,Brentford,1.08,1.52,16,13,47%,53%,4,7
+Arsenal,Crystal Palace,1.18,1.81,12,15,68%,32%,3,6
+Southampton,Newcastle,0.76,2.93,12,17,53%,47%,3,8
+Nottingham Forest,Bournemouth,1.30,1.22,14,13,53%,47%,2,6
+Manchester City,Aston Villa,1.09,1.68,14,7,62%,38%,10,2
+Arsenal,Nottingham Forest,1.19,0.33,19,7,66%,34%,8,1
+Leicester,Tottenham,1.05,1.18,7,15,30%,70%,2,13
+Wolves,Leicester,2.02,1.15,20,8,56%,44%,4,2
+Manchester City,Chelsea,2.50,1.80,15,10,57%,43%,2,3
+Newcastle,Southampton,0.25,1.77,3,19,22%,78%,3,12
+Fulham,Wolves,1.03,1.32,10,10,59%,41%,7,2
+Southampton,Fulham,0.63,2.42,7,26,35%,65%,0,13
+Chelsea,Manchester City,1.01,0.77,10,11,48%,52%,4,3
+Brighton,Everton,0.73,0.85,16,3,69%,31%,9,1
+Liverpool,Tottenham,2.28,0.46,25,8,62%,38%,8,2
+Wolves,Arsenal,0.74,1.00,9,9,52%,48%,1,5
+Chelsea,Everton,0.88,0.44,10,6,55%,45%,10,2
+Aston Villa,West Ham,0.85,1.31,14,14,46%,54%,4,3
+Brentford,Crystal Palace,1.59,1.17,9,14,46%,54%,4,7
+Nottingham Forest,Brentford,0.90,1.29,14,11,55%,45%,4,5
+Everton,Brentford,1.20,1.10,27,9,59%,41%,10,4
+Everton,Brighton,0.45,1.43,9,10,38%,62%,1,5
+Liverpool,Ipswich,1.98,0.48,16,3,70%,30%,3,4
+Bournemouth,Nottingham Forest,1.69,0.98,16,18,51%,49%,3,9
+Arsenal,Wolves,1.24,0.47,18,9,53%,47%,8,2
+Chelsea,Wolves,3.15,0.86,19,9,63%,37%,3,6
+Tottenham,Ipswich,1.55,1.62,17,8,66%,34%,12,2
+Ipswich,Liverpool,0.45,2.65,7,18,38%,62%,2,10
